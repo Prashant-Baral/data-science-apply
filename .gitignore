@@ -4,4 +4,7 @@
 Datasets/
 __pycache__/
 *.pyc
+data/df_main.csv
+data/df_anomaly.csv
+data/df_invlaid.csv
 
